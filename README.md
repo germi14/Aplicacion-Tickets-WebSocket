@@ -1,4 +1,4 @@
-# Aplicacion tickets usando Socket Server Basico
+# Aplicacion tickets usando gitSocket Server Basico
 
 Aplicacion para generar y atender tickets
 La aplicacion genera los tickets en una pantalla para el personal que atiende
